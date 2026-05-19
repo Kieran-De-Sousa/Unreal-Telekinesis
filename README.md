@@ -9,7 +9,7 @@ Players are able to pick up specific 'Telekinetic' objects that are highlighted 
 - Debris Shield Generation
 
 ## Setup and Controls
-**To play the game, download the Unreal Build zip folder in releases, extract the folder and run the exe**
+**To play the game, download the Unreal Build zip folder in releases, extract the folder and run the exe.**
 | Key         | Action                                       |
 |-------------|----------------------------------------------|
 | W           | Walk Forward                                 |
